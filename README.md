@@ -1,8 +1,8 @@
 # Pertemuan 03 Seleksi Python
 
-Nama: Muhammad Rizky Ramzy Ramadhan
-NIM: 2225250199 
-Kelas: 3E  
+Nama: Muhammad Rizky Ramzy Ramadhan  
+NIM: 2225250199   
+Kelas: 3E     
 Jurusan: Pendidikan Matematika
 
 
